@@ -10,5 +10,5 @@ n=input("What is your name?:  ")
 y = input("How old are you?:  ")
 # print(n.capitalize(),",Ooo beautiful name!")
 
-print("Your name is:",n,";\ your old is:",y)
+print("Your name is:",n,";\ you are",y,"years old")
 
